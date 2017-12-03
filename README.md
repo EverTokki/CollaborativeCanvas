@@ -6,7 +6,7 @@ A shared canvas that can be accessed concurrently by numerous contributors.
 
 MLH Local Hack Day 
 
-UBCHACKS 2017 Workshop by Matthew Siu
+Created based on the UBCHACKS 2017 Workshop by Matthew Siu
 
 - Node.js
 
