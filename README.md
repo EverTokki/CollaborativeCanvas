@@ -30,15 +30,13 @@ UBCHACKS 2017 Workshop by Matthew Siu
 `npm run start`
 
 # Run the code on a temporary domain
-`cd <file directory with extracted ngrok`
+`cd <file directory with extracted ngrok>`
 
 `./ngrok http 3000`
 
 - copy URL under "Forwarding"
 
-- paste URL onto sketch.js
-
-`socket = io.connect('<URL>');`
+- paste URL onto sketch.js `socket = io.connect('<URL>');`
 
 `cd <file directory>`
 
