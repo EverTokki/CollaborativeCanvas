@@ -26,6 +26,7 @@ UBCHACKS 2017 Workshop by Matthew Siu
 
 # Run the code
 `cd <file directory>`
+
 `npm run start`
 
 # Run the code on a temporary domain
