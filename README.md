@@ -1,7 +1,4 @@
 # CollaborativeCanvas
-
-![Collaborative Canvas](https://i.imgur.com/q5MX8yy.png)
-
 A shared canvas that can be accessed concurrently by numerous contributors.
 
 MLH Local Hack Day 
